@@ -11,5 +11,6 @@
     <title>JavaWeb for GitHub!</title>
   </head>
   <body>
+    <center>Jsp_pages!</center>
   </body>
 </html>
